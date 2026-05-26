@@ -8,4 +8,4 @@
 :HL["/mvsff-web/assets/founders.png","image"]
 :HL["/mvsff-web/assets/family_7.jpg","image"]
 :HL["/mvsff-web/assets/family_8.jpg","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"the-founders","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"DJ3uvRTqxZ1hVGYc5KECQ"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"the-founders","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"NkO930T_ubolQWaa1X84o"}
